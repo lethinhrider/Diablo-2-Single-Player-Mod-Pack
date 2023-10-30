@@ -6,6 +6,7 @@ Mod pack included:
 - SGD2FreeRes from https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution
 
 # Installation
+coming soon
 
 
 # Some images after installed
