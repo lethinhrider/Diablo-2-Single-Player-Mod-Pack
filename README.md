@@ -6,6 +6,7 @@ Mod pack included:
 - SGD2FreeRes from [github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution](github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution)
 
 
+
 # Installation
 1. **Install Diablo II and Diablo II: Lord of Destruction**
 - Download and install Diablo II  [**here**](https://download.battle.net/?platform=windows&product=d2&locale=enUS)
@@ -13,12 +14,15 @@ Mod pack included:
 - Download and install latest update  [**here**](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe)
 ###### _Credit_: _https://us.battle.net/support/en/article/13867_
 
+
 2. **Download and install mod pack**
 - Download and and extract file D2SPModPack.zip to the Diablo 2 installation path [**here**](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases)
 - Edit "1366x768" in the SGD2FreeResolution.json file with the resolution you want, then save.
 - Just run the PlugY.exe file to run the game.
 
+
 3. **Enjoy!**
+
 
 
 # Some images after installed
