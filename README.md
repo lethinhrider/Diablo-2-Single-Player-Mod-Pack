@@ -1,4 +1,4 @@
-# Diablo 2 Single Player Mod Pack
+# Diablo 2 Single Player Mod Pack for Diablo II: Lord of Destruction
 Mod pack included:
 - PlugY 14.03 by Yohann from https://github.com/ChaosMarc/PlugY
 - D2mods from https://sajonoso.github.io/d2mods/
@@ -6,7 +6,19 @@ Mod pack included:
 - SGD2FreeRes from https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution
 
 # Installation
-coming soon
+1. **Install Diablo II and Diablo II: Lord of Destruction**
+- Download and install Diablo II from: https://download.battle.net/?platform=windows&product=d2&locale=enUS
+- Download and install Diablo II: Lord of Destruction from: https://download.battle.net/?platform=windows&product=d2lod&locale=enUS
+- Download and install latest update: http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe
+_Credit_: _https://us.battle.net/support/en/article/13867_
+
+2. **Download and install mod pack**
+- Download and and extract file D2SPModPack.zip to the Diablo 2 installation path: https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases
+- Edit "1366x768" in the SGD2FreeResolution.json file with the resolution you want, then save.
+- Just run the PlugY.exe file to run the game.
+
+3. **Enjoy****!**
+
 
 
 # Some images after installed
