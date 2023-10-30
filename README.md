@@ -12,7 +12,7 @@ Mod pack included:
 - Download and install Diablo II: Lord of Destruction  [**here**](https://download.battle.net/?platform=windows&product=d2lod&locale=enUS)
 - Download and install latest update  [**here**](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe)
   
-_Credit_: _https://us.battle.net/support/en/article/13867_
+###### _Credit_: _https://us.battle.net/support/en/article/13867_
 
 2. **Download and install mod pack**
 - Download and and extract file D2SPModPack.zip to the Diablo 2 installation path [**here**](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases)
