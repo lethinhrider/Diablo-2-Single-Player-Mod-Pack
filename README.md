@@ -5,6 +5,7 @@ Mod pack included:
 - D2GL by bayaraa from https://github.com/bayaraa/d2gl
 - SGD2FreeRes from https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution
 
+
 # Installation
 1. **Install Diablo II and Diablo II: Lord of Destruction**
 - Download and install Diablo II from: https://download.battle.net/?platform=windows&product=d2&locale=enUS
@@ -17,8 +18,7 @@ _Credit_: _https://us.battle.net/support/en/article/13867_
 - Edit "1366x768" in the SGD2FreeResolution.json file with the resolution you want, then save.
 - Just run the PlugY.exe file to run the game.
 
-3. **Enjoy****!**
-
+3. **Enjoy!**
 
 
 # Some images after installed
