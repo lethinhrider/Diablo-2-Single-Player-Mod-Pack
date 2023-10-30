@@ -1,23 +1,21 @@
 # Diablo 2 Single Player Mod Pack for Diablo II: Lord of Destruction
 Mod pack included:
-- PlugY 14.03 by Yohann from [github.com/ChaosMarc/PlugY]
+- PlugY 14.03 by Yohann from [github.com/ChaosMarc/PlugY](github.com/ChaosMarc/PlugY)
 - D2mods from https://sajonoso.github.io/d2mods/
-- D2GL by bayaraa from [github.com/bayaraa/d2gl]
-- SGD2FreeRes from [github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution]
+- D2GL by bayaraa from [github.com/bayaraa/d2gl](github.com/bayaraa/d2gl)
+- SGD2FreeRes from [github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution](github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution)
 
 
 # Installation
 1. **Install Diablo II and Diablo II: Lord of Destruction**
-- Download and install Diablo II from: 
-https://download.battle.net/?platform=windows&product=d2&locale=enUS
-- Download and install Diablo II: Lord of Destruction from: 
-https://download.battle.net/?platform=windows&product=d2lod&locale=enUS
-- Download and install latest update: http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe
+- Download and install Diablo II  [**here**](https://download.battle.net/?platform=windows&product=d2&locale=enUS)
+- Download and install Diablo II: Lord of Destruction  [**here**](https://download.battle.net/?platform=windows&product=d2lod&locale=enUS)
+- Download and install latest update  [**here**](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe)
   
 _Credit_: _https://us.battle.net/support/en/article/13867_
 
 2. **Download and install mod pack**
-- Download and and extract file D2SPModPack.zip to the Diablo 2 installation path: https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases
+- Download and and extract file D2SPModPack.zip to the Diablo 2 installation path [**here**](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases)
 - Edit "1366x768" in the SGD2FreeResolution.json file with the resolution you want, then save.
 - Just run the PlugY.exe file to run the game.
 
