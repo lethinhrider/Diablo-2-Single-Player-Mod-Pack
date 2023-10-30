@@ -11,7 +11,6 @@ Mod pack included:
 - Download and install Diablo II  [**here**](https://download.battle.net/?platform=windows&product=d2&locale=enUS)
 - Download and install Diablo II: Lord of Destruction  [**here**](https://download.battle.net/?platform=windows&product=d2lod&locale=enUS)
 - Download and install latest update  [**here**](http://ftp.blizzard.com/pub/diablo2exp/patches/PC/LODPatch_114d.exe)
-  
 ###### _Credit_: _https://us.battle.net/support/en/article/13867_
 
 2. **Download and install mod pack**
