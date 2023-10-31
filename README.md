@@ -2,8 +2,8 @@
 Mod pack included:
 - [PlugY](http://plugy.free.fr/en/index.html) by Yohann Nicolas.
 - [D2mods](https://sajonoso.github.io/d2mods) by [sajonoso](https://github.com/sajonoso/d2mods).
-- [D2GL](https://github.com/bayaraa/d2gl).
-- [SGD2FreeRes](https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution).
+- [D2GL](https://github.com/bayaraa/d2gl) by bayaraa.
+- [SGD2FreeRes](https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution) by Mir.
 
 Works perfectly on Windows 7/8.1/10/11 and Linux(with Lutris).
 
