@@ -8,7 +8,7 @@ Mod pack included:
 
 
 # Features
-See [Features](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/wiki/Features)
+See [Features](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/wiki/Features).
 
 
 # Installation
