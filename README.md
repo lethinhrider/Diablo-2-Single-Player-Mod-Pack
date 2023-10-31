@@ -5,6 +5,8 @@ Mod pack included:
 - D2GL by bayaraa from [github.com/bayaraa/d2gl](https://github.com/bayaraa/d2gl)
 - SGD2FreeRes from [github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution](https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution)
 
+Works on Windows 7/8.1/10/11 and Linux(Lutris).
+
 
 
 # Features
