@@ -1,7 +1,7 @@
 # Diablo 2 Single Player Mod Pack for Diablo II: Lord of Destruction
 Mod pack included:
 - PlugY 14.03 by Yohann Nicolas from http://plugy.free.fr/en/index.html
-- D2mods from https://sajonoso.github.io/d2mods/
+- D2mods by [sajonoso](https://github.com/sajonoso/d2mods) from https://sajonoso.github.io/d2mods/
 - D2GL by bayaraa from [github.com/bayaraa/d2gl](https://github.com/bayaraa/d2gl)
 - SGD2FreeRes from [github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution](https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution)
 
