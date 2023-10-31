@@ -22,7 +22,7 @@ See [Features](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/w
 **2**. **Download and install mod pack**
 - Download and and extract file [**D2SPModPack.zip**](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/releases/latest) into the Diablo 2 installation path.
 - Edit "1366x768" in the SGD2FreeResolution.json file with the resolution you want, then save.
-- Just run the PlugY.exe file to run the game.
+- Just run the PlugY.exe file to run the game, you can create a shortcut for this file if you want.
 
 
 **3**. **Enjoy!**
