@@ -7,6 +7,10 @@ Mod pack included:
 
 
 
+# Features
+See [Features](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/wiki/Features)
+
+
 # Installation
 **1**. **Install Diablo II and Diablo II: Lord of Destruction**
 - Download and install Diablo II  [**here**](https://download.battle.net/?platform=windows&product=d2&locale=enUS)
