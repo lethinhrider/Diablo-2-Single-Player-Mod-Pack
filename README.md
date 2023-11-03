@@ -30,7 +30,7 @@ See [Features](https://github.com/lethinhrider/Diablo-2-Single-Player-Mod-Pack/w
 
 **3**. **Enjoy!**
 
-_**Note**: If you want to use a Battle.net account, just run the Diablo II.exe file instead of PlugY.exe_
+_**Note**: If you want to use Battle.net account, just run the Diablo II.exe file instead of PlugY.exe_
 
 
 
