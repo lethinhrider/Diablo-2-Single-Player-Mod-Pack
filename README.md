@@ -1,5 +1,5 @@
 # Diablo 2 Single Player Mod Pack for Diablo II: Lord of Destruction
-### Warning: Mods are for Single Player mode only, do not use for Battle.net or you will be banned.
+#### Warning: Mods are for Single Player mode only, do not use for Battle.net or you will be banned.
 
 Mod pack included:
 - [PlugY](http://plugy.free.fr/en/index.html) by Yohann Nicolas.
