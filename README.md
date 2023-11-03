@@ -6,6 +6,7 @@ Mod pack included:
 - [SGD2FreeRes](https://github.com/mir-diablo-ii-tools/SlashGaming-Diablo-II-Free-Resolution) by Mir.
 
 Works perfectly on Windows 7/8.1/10/11 and Linux(with Lutris).
+**Warning: Mods are for Single Player mode only, do not use for Battle.net or you will be banned.**
 
 
 
